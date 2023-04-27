@@ -1,0 +1,9 @@
+at32f4:
+  at32f407:
+    url: https://www.st.com/en/microcontrollers-microprocessors/stm32f407-417.html
+    rm: RM0090
+    rm_title: STM32F405/415, STM32F407/417, STM32F427/437 and STM32F429/439
+    rm_url: https://www.st.com/resource/en/reference_manual/dm00031020.pdf
+    members:
+      - STM32F407
+      - STM32F417

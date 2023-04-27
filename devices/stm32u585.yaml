@@ -1,3 +1,0 @@
-_svd: ../svd/stm32u585.svd
-
-_clear_fields: ["*"]

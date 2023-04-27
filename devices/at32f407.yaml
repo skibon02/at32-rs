@@ -1,0 +1,4 @@
+_svd: ../svd/at32f407.svd
+
+_modify:
+  name: AT32F407
